@@ -1,5 +1,5 @@
 ## Oi, meu nome é João e sou um estudante de programação!
-Atualmente estou estudando HTML, CSS e Javascript.
+Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Unisociesc de Blumenau.
 
 <div align="center">
   <a href="https://github.com/joaomouram">
